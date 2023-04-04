@@ -8,7 +8,11 @@
 ---
 
 ### :man_astronaut: About me 
-I'm Hendrik, a student at École42, a renowned software engineering school from Paris and ex-student Artificial Intelligence from KU Leuven in Belgium. My focus during my studies has been on C/C++ projects (feel free to check out the 42 repo for all of the projects). I'm currently learning TypeScript and Solidity. I'm interested in web2/3 programming, data science, economics and more! In a previous life I was a management consultant, data analyst and data visualisation expert.
+I'm Hendrik, a student at École42, a renowned software engineering school from Paris and ex-student Artificial Intelligence from KU Leuven in Belgium. 
+
+My focus during my studies has been on C/C++ projects (feel free to check out the 42 repo for all of the projects, I suggest [cub3d](https://github.com/arieivs/42_04_cub3d), [webserv](https://github.com/Hevhove/webserv) or [minishell](https://github.com/Hevhove/minishell) :eyes:). I'm currently learning TypeScript and Solidity. 
+
+I'm interested in web2/3 programming, data science, economics and more! In a previous life I was a management consultant, data analyst and data visualisation expert.
 
 - 🌱 I’m currently learning: Typescript, Javascript, Solidity, 
 - 📫 How to reach me: hjg.van.hove@gmail.com
