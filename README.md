@@ -8,7 +8,7 @@
 ---
 
 ### :man_astronaut: About me 
-I'm Hendrik, a student at École42, a renowned software engineering school from Paris and ex-student Artificial Intelligence from KU Leuven in Belgium. 
+I'm Hendrik, a student at École42, a renowned software engineering school from Paris and ex-student Artificial Intelligence (cum laude) from KU Leuven in Belgium. 
 
 My focus during my studies has been on C/C++ projects (feel free to check out the 42 repo for all of the projects, I suggest [cub3d](https://github.com/arieivs/42_04_cub3d), [webserv](https://github.com/Hevhove/webserv) or [minishell](https://github.com/Hevhove/minishell) :eyes:). I'm currently learning TypeScript and Solidity. 
 
