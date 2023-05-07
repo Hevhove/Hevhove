@@ -14,7 +14,7 @@ My focus during my studies has been on C/C++ projects (feel free to check out th
 
 I'm interested in web2/3 programming, data science, economics and more! In a previous life I was a management consultant, data analyst and data visualisation expert.
 
-- 🌱 I’m currently learning: Typescript, Javascript, Solidity, 
+- 🌱 I’m currently learning: Typescript & NodeJS, NestJS, NextJS, Solidity
 - 📫 How to reach me: hjg.van.hove@gmail.com
 - :briefcase: I’m looking for work in web3
 
