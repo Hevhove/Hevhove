@@ -16,7 +16,6 @@ I'm interested in web2/3 programming, data science, economics and more! In a pre
 
 - 🌱 I’m currently learning: Typescript & NodeJS, NestJS, NextJS, Solidity
 - 📫 How to reach me: hjg.van.hove@gmail.com
-- :briefcase: I’m looking for work in web3
 
 ---
 ### :toolbox: Tools && Languages
